@@ -1,0 +1,8 @@
+C:\Users\pedro.asalmeida1\source\repos\Sistema de Vendas de Livros\Sistema de Vendas de Livros\bin\Debug\Sistema de Vendas de Livros.exe.config
+C:\Users\pedro.asalmeida1\source\repos\Sistema de Vendas de Livros\Sistema de Vendas de Livros\bin\Debug\Sistema de Vendas de Livros.exe
+C:\Users\pedro.asalmeida1\source\repos\Sistema de Vendas de Livros\Sistema de Vendas de Livros\bin\Debug\Sistema de Vendas de Livros.pdb
+C:\Users\pedro.asalmeida1\source\repos\Sistema de Vendas de Livros\Sistema de Vendas de Livros\obj\Debug\Sistema de Vendas de Livros.csproj.AssemblyReference.cache
+C:\Users\pedro.asalmeida1\source\repos\Sistema de Vendas de Livros\Sistema de Vendas de Livros\obj\Debug\Sistema de Vendas de Livros.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro.asalmeida1\source\repos\Sistema de Vendas de Livros\Sistema de Vendas de Livros\obj\Debug\Sistema de Vendas de Livros.csproj.CoreCompileInputs.cache
+C:\Users\pedro.asalmeida1\source\repos\Sistema de Vendas de Livros\Sistema de Vendas de Livros\obj\Debug\Sistema de Vendas de Livros.exe
+C:\Users\pedro.asalmeida1\source\repos\Sistema de Vendas de Livros\Sistema de Vendas de Livros\obj\Debug\Sistema de Vendas de Livros.pdb
